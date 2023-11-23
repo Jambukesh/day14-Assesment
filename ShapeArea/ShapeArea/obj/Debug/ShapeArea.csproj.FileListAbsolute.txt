@@ -1,0 +1,6 @@
+D:\mphasis\problem statement\days\day 14\ShapeArea\ShapeArea\bin\Debug\ShapeArea.dll
+D:\mphasis\problem statement\days\day 14\ShapeArea\ShapeArea\bin\Debug\ShapeArea.pdb
+D:\mphasis\problem statement\days\day 14\ShapeArea\ShapeArea\obj\Debug\ShapeArea.csproj.AssemblyReference.cache
+D:\mphasis\problem statement\days\day 14\ShapeArea\ShapeArea\obj\Debug\ShapeArea.csproj.CoreCompileInputs.cache
+D:\mphasis\problem statement\days\day 14\ShapeArea\ShapeArea\obj\Debug\ShapeArea.dll
+D:\mphasis\problem statement\days\day 14\ShapeArea\ShapeArea\obj\Debug\ShapeArea.pdb
